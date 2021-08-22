@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 7f4d7c0fc7bec4c48afa182459e73163
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 7f518803292daa8489a0461bfb6003cd
+  - enabled: 1
+    path: Assets/Scenes/BridgeGame.unity
+    guid: dd0a41a46b85b924dbb0a671de1d6fe7
+  - enabled: 1
+    path: Assets/Scenes/SharkBridge.unity
+    guid: 6416aa4960d60be4ea5cf1468712ac69
+  - enabled: 1
+    path: Assets/Scenes/SharkZipZip.unity
+    guid: 95d2b0ae05c3ed44faa8ddd56f1c2ab9
+  - enabled: 1
+    path: Assets/Scenes/ZipzipGame.unity
+    guid: 500105c6ac089f240acd19f29e9ce6f5
+  m_configObjects: {}
